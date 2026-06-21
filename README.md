@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
