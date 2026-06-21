@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0041-first-missing-positive) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
