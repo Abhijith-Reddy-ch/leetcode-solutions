@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0136-single-number](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0136-single-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
