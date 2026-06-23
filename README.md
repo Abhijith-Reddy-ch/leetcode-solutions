@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0136-single-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
