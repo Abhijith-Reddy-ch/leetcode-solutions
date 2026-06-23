@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0242-valid-anagram](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
