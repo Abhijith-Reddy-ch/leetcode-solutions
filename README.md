@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
