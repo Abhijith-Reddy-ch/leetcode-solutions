@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Recursion
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
