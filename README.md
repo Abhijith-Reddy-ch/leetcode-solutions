@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0136-single-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -66,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
