@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0050-powx-n) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,8 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abhijith-Reddy-ch/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
